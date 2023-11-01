@@ -1,1 +1,1 @@
-# wots_github.io
+# wots.github.io
